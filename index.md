@@ -1,16 +1,31 @@
 # Daily DevOps Grind
+
+## 4th May 2021 - Long road to DevOps
+### Udemy
+I completed more of the DevOps course covering the CodePipeline in detail.
+### Work
+Began work on a CloudFormation template to deploy a Tableau Server.
+### RedHat
+Watched a video on Jenkins pipelines. Related to Kubernetes cluster deployments.
+### Community
+Phase One-point-One:
+Update Blog: Terminal \ Git
+Application: VI
+Format: Markdown
+Text: Touchtyped
+
 ## 29th April 2021 - Long road to DevOps
 ### Udemy
 I completed more or of the DevOps course covering the CodeDeploy material.
 ### Work
 Managed to get an early start on the day by working on Codebuild. A few more steps configured including a webhook to launch the build when code is pushed to the repo.
-
 Followed the SoftwareDev demo of Terraform / Codebuild pipeline and hoping to get a chance to discuss it in more detail
 ### Aws
 1pm course on managing Microsoft platforms on AWS - AWS Migration Hub and Server Migration Service
 Community
 Need to start pushing blog to GitHub Page
-### 28th April 2021 - Next challenge
+
+## 28th April 2021 - Next challenge
 DevOps Pro or SA Pro
 Began the process of figuring out which cert to try for next 
 ### Udemy
@@ -18,39 +33,37 @@ Watched the first part of the DevOps Pro course by Stephane Maarek. Covered Code
 ### AWS 
 Started doing the sample questions for SA Pro and in some ways it wasn’t as tricky as I was expecting.
 ### Work
-Started building a ci pipeline with codebuild using github as a source. 
+Started building a ci pipeline with codebuild using github as a source.
+
 ## 27th April 2021 - Decompress
 ### LinkedIn Learning
 Completed the aws SA course by Tom Carpenter
 ### Work
 Looked into blue/green deployment on elastic beanstalk. Started the trusted advisor audit across the accounts. Reviewed current aws config settings in the corp account. 
 ### Aws
-Got my score - 914! That means all three associate certs i scored over 900. Happy with that result. Requested i be put on the adv architecting on aws qa course for training.
+Got my score! That means for all three associate certs I've scored over 900. Requested I be put forward for the 'Advanced Architecting On AWS' QA course for training.
 
 ## 26th April 2021 - SysOps Certified
-
 ### Youtube
 Completed the last to CQ episodes 
 ### Brainscape
 On the way to the exam went through the flashcards
 ### AWS
 The exam went okay it was nice to have a scratch sheet to write things and being in a climate controlled test office was much better than my previous online experience. I had plenty of time and finished early. The few questions that I flagged or wrote down to revisit I was able to return to and submit answers that I was happy with overall.
-
 ### LinkedIn Learning
 Completed the Shyam Raj
 Great for AWS Config settings 
 RDS Event triggers
 Started Enterprise security by Sharif Nijim 
 Idea around separation of duties Engineering has Root passwords / Security holds the MFA Hardware tokens
-25th April 2021 - Road to SysOps
+
+## 25th April 2021 - Road to SysOps
 Aws exam 30
 Bonso #6
 Monitoring section
 Maarek course - exam prep & monitoring
 Faqs
 Read study notes
-
-
 ### Udemy
 Completed  ‘AWS Certified SysOps Administrator Associate Practice Exam 5’ by Jon Bonso.
 Worryingly I didn’t do too well. 
@@ -63,7 +76,6 @@ Completed the Sample Questions
 Sat the AWS Practice exam and scored 80%
 ### Quizlet / Brainscape
 Created a set of flashcards based on the Sysops Cheatsheet by Jon Bonso
-
 
 ## 24th April 2021 - Road to SysOps
 ### Udemy
@@ -90,7 +102,6 @@ Thumbnail generation
 Sqs and sns
 Kinesis types
 
-
 Completed "AWS Administration: Tips and Tricks" it was basic content but practical in it's broad real life use cases. 
 Various instructors
 Short lectures
@@ -105,11 +116,8 @@ The opsworks demo provided good insights into the platforms strengths
 Code deploy is another lesser demoed technology
 Cloud9 looks like a easy way to standardise the ide platform to provide a unified experience to developers.
 Codestar is a great tool but in some ways it seems too easy to deploy a ci/cd pipeline
-Are tradeoffs to using codestar that need to be investigated?
-
 
 ### QwikLabs
-
 Introduction to Amazon CloudFront
 - Created a new Amazon CloudFront distribution
 - Used your Amazon CloudFront distribution to serve an image file
@@ -136,8 +144,6 @@ Phase One:
 
 
 Blog updates: End each post with timestamp / OS / Text editor / Location (City) /  WPM
-
-
 
 ## 22nd April 2021 - Road to SysOps
 ### LinkedIn Learning
@@ -173,7 +179,6 @@ Introduction to Amazon API Gateway
 - Create an AWS Lambda function
 - Create an Amazon API Gateway endpoints
 - Debug API Gateway and Lambda with Amazon CloudWatch
-
 ### Work
 Suggested the use of two Amazon snowball devices for moving 100TB of data to S3. Also, noted that Aws data pipeline could be helpful.
 Worked on a proof of concept for PreSigned Urls using the Python handler in AWS lambda
