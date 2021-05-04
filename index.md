@@ -14,6 +14,8 @@ Phase One-point-One:
 - Format: Markdown
 - Text: Touchtyped
 Fixed some errors with multiple SSH keys with config file permissions 
+### Instruqt
+Discovered Instruqt and completed a short Ansible Tower course
 
 ## 29th April 2021 - Long road to DevOps
 ### Udemy
