@@ -1,54 +1,48 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Daily DevOps Grind</title>
-    </head>
-    <body>
-        <p>
-<h1>29th April 2021 - Long road to DevOps</h1>
-<b>Udemy<b>
+# Daily DevOps Grind
+## 29th April 2021 - Long road to DevOps
+### Udemy
 I completed more or of the DevOps course covering the CodeDeploy material.
-<b>Work<b>
+### Work
 Managed to get an early start on the day by working on Codebuild. A few more steps configured including a webhook to launch the build when code is pushed to the repo.
 
 Followed the SoftwareDev demo of Terraform / Codebuild pipeline and hoping to get a chance to discuss it in more detail
-<b>Aws</b>
+### Aws
 1pm course on managing Microsoft platforms on AWS - AWS Migration Hub and Server Migration Service
-<b>Community</b>
+Community
 Need to start pushing blog to GitHub Page
-<h1>28th April 2021 - Next challenge</h1>
+### 28th April 2021 - Next challenge
 DevOps Pro or SA Pro
 Began the process of figuring out which cert to try for next 
-<b>Udemy</b>
+### Udemy
 Watched the first part of the DevOps Pro course by Stephane Maarek. Covered CodeCommit and CodeBuild.
-<b>AWS</b> 
+### AWS 
 Started doing the sample questions for SA Pro and in some ways it wasn’t as tricky as I was expecting.
-<b>Work</b>
+### Work
 Started building a ci pipeline with codebuild using github as a source. 
-<h1>27th April 2021 - Decompress</h1>
-<b>LinkedIn Learning</b>
+## 27th April 2021 - Decompress
+### LinkedIn Learning
 Completed the aws SA course by Tom Carpenter
-<b>Work</b>
+### Work
 Looked into blue/green deployment on elastic beanstalk. Started the trusted advisor audit across the accounts. Reviewed current aws config settings in the corp account. 
-<b>Aws</b>
+### Aws
 Got my score - 914! That means all three associate certs i scored over 900. Happy with that result. Requested i be put on the adv architecting on aws qa course for training.
 
-<h1>26th April 2021 - SysOps Certified</h1>
+## 26th April 2021 - SysOps Certified
 
-<b>Youtube</b>
+### Youtube
 Completed the last to CQ episodes 
-<b>Brainscape</b>
+### Brainscape
 On the way to the exam went through the flashcards
-<b>AWS</b>
+### AWS
 The exam went okay it was nice to have a scratch sheet to write things and being in a climate controlled test office was much better than my previous online experience. I had plenty of time and finished early. The few questions that I flagged or wrote down to revisit I was able to return to and submit answers that I was happy with overall.
 
-<b>LinkedIn Learning</b>
+### LinkedIn Learning
 Completed the Shyam Raj
 Great for AWS Config settings 
 RDS Event triggers
 Started Enterprise security by Sharif Nijim 
 Idea around separation of duties Engineering has Root passwords / Security holds the MFA Hardware tokens
-<h1>25th April 2021 - Road to SysOps</h1>
+25th April 2021 - Road to SysOps
 Aws exam 30
 Bonso #6
 Monitoring section
@@ -57,35 +51,35 @@ Faqs
 Read study notes
 
 
-<b>Udemy</b>
+### Udemy
 Completed  ‘AWS Certified SysOps Administrator Associate Practice Exam 5’ by Jon Bonso.
 Worryingly I didn’t do too well. 
 Completed other sections of the Stephane Maarek course
 Re-sat the a practice exam I initially failed by Stephane Maarek & 
-<b>Youtube</b>
+### Youtube
 Completed several CQ episodes on youtube
-<b>AWS</b> 
+### AWS 
 Completed the Sample Questions
 Sat the AWS Practice exam and scored 80%
-<b>Quizlet / Brainscape</b>
+### Quizlet / Brainscape
 Created a set of flashcards based on the Sysops Cheatsheet by Jon Bonso
 
 
-<h1>24th April 2021 - Road to SysOps</h1>
-<b>Udemy</b>
+## 24th April 2021 - Road to SysOps
+### Udemy
 Completed  ‘AWS Certified SysOps Administrator Associate Practice Exam 4’ by Jon Bonso. I passed but felt I fell foul to some wording that seemed ambiguous. 
 Followed it up by typing up my incorrect answers into a Google Doc to supplement my learning material.
-<b>LinkedIn Learning</b>
+### LinkedIn Learning
 Completed the ‘Exam Tips: AWS Certified SysOps Administrator’ lecture by Sharif Nijim. Mostly covered this material before but good to go over it again. The cloudwatch visual representation was masterful.
 Started the first section of 'AWS Monitoring and Reporting' by Shyam Raj as this goes into detail on a large part of the exam 22%. Completed the section on CloudWatch and the end of section quiz.
-<b>AWS Study Materials</b>
+### AWS Study Materials
 Completed course ‘AWS EXAM readiness
 WS Sample Exam Questions and did fine.
-<b>Quizlet</b>
+### Quizlet
 32 flashcards of the 177 by beezy_bob 
 
-<h1>23rd April 2021 - Road to SysOps</h1>
-<b>LinkedIn Learning</b>
+## 23rd April 2021 - Road to SysOps
+### LinkedIn Learning
 Watched the start of Tom Carpenter's Solutions Architect 7 application deployment course. It's an enjoyable format watching Tom clearly explain the content. Much more engaging than some of the PowerPoint online content 
 Liked the breakdown of cloudfront uses
 Covered Swf in context
@@ -114,39 +108,39 @@ Codestar is a great tool but in some ways it seems too easy to deploy a ci/cd pi
 Are tradeoffs to using codestar that need to be investigated?
 
 
-<b>QwikLabs</b>
+### QwikLabs
 
-<b>Introduction to Amazon CloudFront</b>
-Created a new Amazon CloudFront distribution
-Used your Amazon CloudFront distribution to serve an image file
-Deleted your Amazon CloudFront distribution when it is no longer required
-<b>Introduction to AWS Lambda</b>
-Created an AWS Lambda function
-Configured an Amazon S3 bucket as a Lambda Event Source
-Triggered a Lambda function by uploading an object to Amazon S3
-Monitored AWS Lambda S3 functions through Amazon CloudWatch Log
-<b>Introduction to AWS Key Management Service</b>
-Created an Encryption Key
-Created an S3 bucket with CloudTrail logging functions
-Encrypted and image and stored it in your S3 bucket
-Viewed the encrypted image using the AWS Management Console
-Monitored encryption key usage using CloudTrail
-Managed encryption keys for users and roles
-<b>Community</b>
+Introduction to Amazon CloudFront
+- Created a new Amazon CloudFront distribution
+- Used your Amazon CloudFront distribution to serve an image file
+- Deleted your Amazon CloudFront distribution when it is no longer required
+Introduction to AWS Lambda
+- Created an AWS Lambda function
+- Configured an Amazon S3 bucket as a Lambda Event Source
+- Triggered a Lambda function by uploading an object to Amazon S3
+- Monitored AWS Lambda S3 functions through Amazon CloudWatch Log
+Introduction to AWS Key Management Service
+- Created an Encryption Key
+- Created an S3 bucket with CloudTrail logging functions
+- Encrypted and image and stored it in your S3 bucket
+- Viewed the encrypted image using the AWS Management Console
+- Monitored encryption key usage using CloudTrail
+- Managed encryption keys for users and roles
+### Community
 Setup a github page and started blogging. 
 Phase One:
--    Update Blog: Terminal \ Git
--     Application: VI
--     Format: HTML
--     Text: Touchtyped 
+- Update Blog: Terminal \ Git
+- Application: VI
+- Format: HTML
+- Text: Touchtyped 
 
 
 Blog updates: End each post with timestamp / OS / Text editor / Location (City) /  WPM
 
 
 
-<h1>22nd April 2021 - Road to SysOps</h1>
-<b>LinkedIn Learning</b>
+## 22nd April 2021 - Road to SysOps
+### LinkedIn Learning
 Completed the 4 hr high availability sharif nijim lecture 
 Very good overall
 Versioning is required on both buckets for Cross region replication 
@@ -156,35 +150,35 @@ Amazon Keyspaces is the Aws implementation of Apache Cassandra
 Keyspaces is not yet multi-region
 Added High Availability to my profile
 Started AWS: Deployment and Provisioning 5h Brandon Rich
-<b>QwikLabs</b>
+### QwikLabs
 Used Qwiklabs for the first time today, it's very good. Some of the labs seemed dated but the experience of setting things in the AWS console was good. Tempted by the Advantage subscription for at least a month.
-<b>Introduction to AWS Identity and Access Management (IAM)</b>
-Explored pre-created IAM users and groups
-Inspected IAM policies as applied to the pre-created groups
-Followed a real-world scenario, adding users to groups with specific capabilities enabled
-Located and used the IAM sign-in URL
-Experimented with the effects of policies on service access
-<b>Introduction to Amazon DynamoDB</b>
-Create an Amazon DynamoDB table
-Enter data into an Amazon DynamoDB table
-Query an Amazon DynamoDB table
-Delete an Amazon DynamoDB table
-<b>Introduction to Amazon Simple Storage Service (S3)</b>
-Create a bucket in Amazon S3
-Add an object to your bucket
-Manage access permissions on an object
-Create a bucket policy
-Use bucket versioning
-<b>Introduction to Amazon API Gateway</b>
-Create an AWS Lambda function
-Create an Amazon API Gateway endpoints
-Debug API Gateway and Lambda with Amazon CloudWatch
+Introduction to AWS Identity and Access Management (IAM)
+- Explored pre-created IAM users and groups
+- Inspected IAM policies as applied to the pre-created groups
+- Followed a real-world scenario, adding users to groups with specific capabilities enabled
+- Located and used the IAM sign-in URL
+- Experimented with the effects of policies on service access
+Introduction to Amazon DynamoDB
+- Create an Amazon DynamoDB table
+- Enter data into an Amazon DynamoDB table
+- Query an Amazon DynamoDB table
+- Delete an Amazon DynamoDB table
+Introduction to Amazon Simple Storage Service (S3)
+- Create a bucket in Amazon S3
+- Add an object to your bucket
+- Manage access permissions on an object
+- Create a bucket policy
+- Use bucket versioning
+Introduction to Amazon API Gateway
+- Create an AWS Lambda function
+- Create an Amazon API Gateway endpoints
+- Debug API Gateway and Lambda with Amazon CloudWatch
 
-<b>Work</b>
+### Work
 Suggested the use of two Amazon snowball devices for moving 100TB of data to S3. Also, noted that Aws data pipeline could be helpful.
 Worked on a proof of concept for PreSigned Urls using the Python handler in AWS lambda
-<b>Community</b>
-Updated my Meetup profile for Aws focus and setup notifications to my primary email address.</p>
-    </body>
-</html>
+### Community
+Updated my Meetup profile for Aws focus and setup notifications to my primary email address.
+    
+
 
