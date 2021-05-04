@@ -9,10 +9,11 @@ Began work on a CloudFormation template to deploy a Tableau Server.
 Watched a video on Jenkins pipelines. Related to Kubernetes cluster deployments.
 ### Community
 Phase One-point-One:
-Update Blog: Terminal \ Git
-Application: VI
-Format: Markdown
-Text: Touchtyped
+- Update Blog: Terminal \ Git
+- Application: VI
+- Format: Markdown
+- Text: Touchtyped
+Fixed some errors with multiple SSH keys with config file permissions 
 
 ## 29th April 2021 - Long road to DevOps
 ### Udemy
