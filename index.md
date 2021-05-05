@@ -1,5 +1,11 @@
 # Daily DevOps Grind
 
+## 5th May 2021 - Long road to DevOps
+### Udemy
+Read a blog post on "Implementing GitFlow using AWS CodePipeline, AWS CodeCommit, AWS Code Build and AWS CodeDeploy" by Ashish Gore. I followed in up with some videos on best practices for using GitFlow.
+### Work
+Worked through some Systems manager configuration and proposed using session manager to relieve SSH management burden and provide a managed authentication platform using an existing identity provider. Removed a CloudFormation template and updated an Iam role.
+
 ## 4th May 2021 - Long road to DevOps
 ### Udemy
 I completed more of the DevOps course covering the CodePipeline in detail.
