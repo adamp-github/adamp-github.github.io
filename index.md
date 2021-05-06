@@ -1,5 +1,11 @@
 # Daily DevOps Grind
 
+## 6th May 2021
+### RedHat
+Completed the "RH024 - Red Hat Enterprise Linux Technical Overview" and would like to practice by using vimtutor in future.
+### AWS
+Watched the "Amazon Linux 2 Deep Dive" on Youtube to better understand the OS AWS recommend for Linux on AWS Cloud. 
+
 ## 5th May 2021 - Long road to DevOps
 ### Udemy
 Read a blog post on "Implementing GitFlow using AWS CodePipeline, AWS CodeCommit, AWS Code Build and AWS CodeDeploy" by Ashish Gore. I followed in up with some videos on best practices for using GitFlow.
