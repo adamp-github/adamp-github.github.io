@@ -1,5 +1,36 @@
 # Daily DevOps Grind
 
+## 12th October 2021 - Short(er?) to SA - Pro / Long(er) road to DevOps
+### AWS
+AWS Power Hour on Architecting will run  for 6 sessions starting Monday October 18th 2021
+### Work
+Discussions around Infrastructure serives AWS account
+### Udemy
+Completed Section 4 of 'Ultimate AWS Certified Solutions Architect Professional 2021' by Stephane Maarek
+### Community
+Phase One-point-two:
+- Update Blog: GitHub
+- Application: Web-based VSCode Editor
+- Format: Markdown
+- Text: Touchtyped
+
+## 6th October 2021 - Short(er?) to SA - Pro / Long(er) road to DevOps
+### AWS
+Attended the first session of 'AWS PartnerCast - AWS Solution Architect Professional Certification Journey'
+- A few poor decisions on the quiz questions but optimistic my skills will improve with practice
+
+## 12th July 2021 - Advanced Architecting On AWS Course
+### AWS
+Day 3 - Place holder for Notes / Observations
+
+## 9th July 2021 - Advanced Architecting On AWS Course
+### AWS
+Day 2 - Place holder for Notes / Observations
+
+## 8th Oct 2021 - Advanced Architecting On AWS Course
+### AWS
+Day 1 - Place holder for Notes / Observations
+
 ## 6th May 2021
 ### RedHat
 Completed the "RH024 - Red Hat Enterprise Linux Technical Overview" and would like to practice by using vimtutor in future.
@@ -35,7 +66,7 @@ I completed more or of the DevOps course covering the CodeDeploy material.
 ### Work
 Managed to get an early start on the day by working on Codebuild. A few more steps configured including a webhook to launch the build when code is pushed to the repo.
 Followed the SoftwareDev demo of Terraform / Codebuild pipeline and hoping to get a chance to discuss it in more detail
-### Aws
+### AWS
 1pm course on managing Microsoft platforms on AWS - AWS Migration Hub and Server Migration Service
 Community
 Need to start pushing blog to GitHub Page
@@ -52,11 +83,11 @@ Started building a ci pipeline with codebuild using github as a source.
 
 ## 27th April 2021 - Decompress
 ### LinkedIn Learning
-Completed the aws SA course by Tom Carpenter
+Completed the AWS SA course by Tom Carpenter
 ### Work
-Looked into blue/green deployment on elastic beanstalk. Started the trusted advisor audit across the accounts. Reviewed current aws config settings in the corp account. 
-### Aws
-Got my score! That means for all three associate certs I've scored over 900. Requested I be put forward for the 'Advanced Architecting On AWS' QA course for training.
+Looked into blue/green deployment on elastic beanstalk. Started the trusted advisor audit across the accounts. Reviewed current AWS config settings in the corp account. 
+### AWS
+Got my score! That means for all three associate certs I've scored over 900. I've requested be put forward for the 'Advanced Architecting On AWS' QA course for training.
 
 ## 26th April 2021 - SysOps Certified
 ### Youtube
@@ -64,7 +95,7 @@ Completed the last to CQ episodes
 ### Brainscape
 On the way to the exam went through the flashcards
 ### AWS
-The exam went okay it was nice to have a scratch sheet to write things and being in a climate controlled test office was much better than my previous online experience. I had plenty of time and finished early. The few questions that I flagged or wrote down to revisit I was able to return to and submit answers that I was happy with overall.
+The exam went okay, it was nice to have a scratch sheet to write things and being in a climate controlled office was much better than my previous online experience. I had plenty of time and finished early. The few questions that I flagged or wrote down to revisit I had ample time to return and submit answers.
 ### LinkedIn Learning
 Completed the Shyam Raj
 Great for AWS Config settings 
@@ -73,7 +104,7 @@ Started Enterprise security by Sharif Nijim
 Idea around separation of duties Engineering has Root passwords / Security holds the MFA Hardware tokens
 
 ## 25th April 2021 - Road to SysOps
-Aws exam 30
+AWS exam 30
 Bonso #6
 Monitoring section
 Maarek course - exam prep & monitoring
@@ -81,9 +112,9 @@ Faqs
 Read study notes
 ### Udemy
 Completed  ‘AWS Certified SysOps Administrator Associate Practice Exam 5’ by Jon Bonso.
-Worryingly I didn’t do too well. 
+- Worryingly I didn’t do too well. 
 Completed other sections of the Stephane Maarek course
-Re-sat the a practice exam I initially failed by Stephane Maarek & 
+Re-sat the a practice exam I initially failed by Stephane Maarek
 ### Youtube
 Completed several CQ episodes on youtube
 ### AWS 
@@ -97,8 +128,12 @@ Created a set of flashcards based on the Sysops Cheatsheet by Jon Bonso
 Completed  ‘AWS Certified SysOps Administrator Associate Practice Exam 4’ by Jon Bonso. I passed but felt I fell foul to some wording that seemed ambiguous. 
 Followed it up by typing up my incorrect answers into a Google Doc to supplement my learning material.
 ### LinkedIn Learning
-Completed the ‘Exam Tips: AWS Certified SysOps Administrator’ lecture by Sharif Nijim. Mostly covered this material before but good to go over it again. The cloudwatch visual representation was masterful.
-Started the first section of 'AWS Monitoring and Reporting' by Shyam Raj as this goes into detail on a large part of the exam 22%. Completed the section on CloudWatch and the end of section quiz.
+Completed the ‘Exam Tips: AWS Certified SysOps Administrator’ lecture by Sharif Nijim.
+- I'd mostly covered this material previously but good as a refesher. 
+- The CloudWatch visual representation was a great touch.
+Started the first section of 'AWS Monitoring and Reporting' by Shyam Raj
+- This goes into detail on a large part of the exam 22%. 
+- Completed the section on CloudWatch and the end of section quiz.
 ### AWS Study Materials
 Completed course ‘AWS EXAM readiness
 WS Sample Exam Questions and did fine.
@@ -126,7 +161,7 @@ Added cloud applications to my profile
 Finished the AWS: Deploying and Provisioning by Brandon Rich. It's well explained with some great examples that are less common than some other lectures. Leans more heavily on Ruby but very good to see more detailed examples.
 Using lambda for custom resources in Cloudformation
 Ruby application deployed with Elastic Beanstalk.
-Some more focus on using the aws cli for Elastic Beanstalk
+Some more focus on using the AWS cli for Elastic Beanstalk
 The opsworks demo provided good insights into the platforms strengths
 Code deploy is another lesser demoed technology
 Cloud9 looks like a easy way to standardise the ide platform to provide a unified experience to developers.
@@ -156,19 +191,16 @@ Phase One:
 - Application: VI
 - Format: HTML
 - Text: Touchtyped 
-
-
 Blog updates: End each post with timestamp / OS / Text editor / Location (City) /  WPM
 
 ## 22nd April 2021 - Road to SysOps
 ### LinkedIn Learning
-Completed the 4 hr high availability sharif nijim lecture 
-Very good overall
+Completed the 4 hr 'High Availability' lecture by Sharif Nijim - Very good overall
 Versioning is required on both buckets for Cross region replication 
 EBS volumes can now be attached to multiple instances
-Elasticache versions are slightly behind on Aws
-Amazon Keyspaces is the Aws implementation of Apache Cassandra
-Keyspaces is not yet multi-region
+Elasticache versions are slightly behind on AWS
+Amazon Keyspaces is the AWS implementation of Apache Cassandra
+- Keyspaces is not yet multi-region
 Added High Availability to my profile
 Started AWS: Deployment and Provisioning 5h Brandon Rich
 ### QwikLabs
@@ -195,10 +227,10 @@ Introduction to Amazon API Gateway
 - Create an Amazon API Gateway endpoints
 - Debug API Gateway and Lambda with Amazon CloudWatch
 ### Work
-Suggested the use of two Amazon snowball devices for moving 100TB of data to S3. Also, noted that Aws data pipeline could be helpful.
+Suggested the use of two Amazon snowball devices for moving 100TB of data to S3. Also, noted that AWS data pipeline could be helpful.
 Worked on a proof of concept for PreSigned Urls using the Python handler in AWS lambda
 ### Community
-Updated my Meetup profile for Aws focus and setup notifications to my primary email address.
+Updated my Meetup profile for AWS Focus and setup notifications to my primary email address.
     
 
 
