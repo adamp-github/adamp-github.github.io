@@ -5,6 +5,7 @@
 AWS Power Hour on Architecting will run  for 6 sessions starting Monday October 18th 2021
 ### Work
 Discussions around Infrastructure serives AWS account
+New AWS SA job at work 
 ### Udemy
 Completed Section 4 of 'Ultimate AWS Certified Solutions Architect Professional 2021' by Stephane Maarek
 ### Community
