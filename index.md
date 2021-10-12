@@ -4,8 +4,8 @@
 ### AWS
 AWS Power Hour on Architecting will run  for 6 sessions starting Monday October 18th 2021
 ### Work
-Discussions around Infrastructure serives AWS account
-New AWS SA job at work 
+Discussions around Infrastructure serives AWS account  
+New AWS SA job at work  
 ### Udemy
 Completed Section 4 of 'Ultimate AWS Certified Solutions Architect Professional 2021' by Stephane Maarek
 ### Community
@@ -16,15 +16,17 @@ GitHub Blog Phase One-point-Two:
 - Text: Touchtyped
 
 ## 6th October 2021 - Shorter road to SA - Pro
-Switched focus after some downtime with a vacation, I'm gearing back up to continue my studies.
-Given AWS are offering a four week "AWS Solution Architect Professional Certification Journey", I've decided to focus on the Solutions Architect Professional qualification and put the DevOps Pro study on hold for now.
+Switched focus after some downtime with a vacation, I'm gearing back up to continue my studies.  
+
 ### AWS
 Attended the first session of 4 in the  'AWS PartnerCast - AWS Solution Architect Professional Certification Journey'
 - A few poor decisions on the quiz questions but optimistic my skills will improve with practice
 
 ## 1st October 2021 - Shorter road to SA - Pro
-Switched focus after some downtime with a vacation, I'm gearing back up to continue my studies.
-Given AWS are offering a four week "AWS Solution Architect Professional Certification Journey", I've decided to focus on the Solutions Architect Professional qualification and put the DevOps Pro study on hold for now.
+Switched focus after some downtime with a vacation, I'm gearing back up to continue my studies.  
+Given AWS are offering a four week "AWS Solution Architect Professional Certification Journey",  
+I've decided to focus on the Solutions Architect Professional qualification and put the DevOps 
+Pro study on hold for now.  
 
 ## 12th July 2021 - Advanced Architecting On AWS Course
 ### AWS
@@ -46,9 +48,11 @@ Watched the "Amazon Linux 2 Deep Dive" on Youtube to better understand the OS AW
 
 ## 5th May 2021 - Long road to DevOps
 ### Udemy
-Read a blog post on "Implementing GitFlow using AWS CodePipeline, AWS CodeCommit, AWS Code Build and AWS CodeDeploy" by Ashish Gore. I followed in up with some videos on best practices for using GitFlow.
+Read a blog post on "Implementing GitFlow using AWS CodePipeline, AWS CodeCommit, AWS Code Build and AWS CodeDeploy" by Ashish Gore.  
+I followed in up with some videos on best practices for using GitFlow.  
 ### Work
-Worked through some Systems manager configuration and proposed using session manager to relieve SSH management burden and provide a managed authentication platform using an existing identity provider. Removed a CloudFormation template and updated an Iam role.
+Worked through some Systems manager configuration and proposed using session manager to relieve SSH management burden and provide  
+a managed authentication platform using an existing identity provider. Removed a CloudFormation template and updated an Iam role.  
 
 ## 4th May 2021 - Long road to DevOps
 ### Udemy
@@ -71,8 +75,9 @@ Discovered Instruqt and completed a short Ansible Tower course
 ### Udemy
 I completed more or of the DevOps course covering the CodeDeploy material.
 ### Work
-Managed to get an early start on the day by working on Codebuild. A few more steps configured including a webhook to launch the build when code is pushed to the repo.
-Followed the SoftwareDev demo of Terraform / Codebuild pipeline and hoping to get a chance to discuss it in more detail
+Managed to get an early start on the day by working on Codebuild. A few more steps configured including a webhook to launch the   
+build when code is pushed to the repo.  
+Followed the SoftwareDev demo of Terraform / Codebuild pipeline and hoping to get a chance to discuss it in more detail  
 ### AWS
 1pm course on managing Microsoft platforms on AWS - AWS Migration Hub and Server Migration Service
 Community
@@ -92,9 +97,11 @@ Started building a ci pipeline with codebuild using github as a source.
 ### LinkedIn Learning
 Completed the AWS SA course by Tom Carpenter
 ### Work
-Looked into blue/green deployment on elastic beanstalk. Started the trusted advisor audit across the accounts. Reviewed current AWS config settings in the corp account. 
+Looked into blue/green deployment on elastic beanstalk. Started the trusted advisor audit across the accounts.   
+Reviewed current AWS config settings in the corp account.   
 ### AWS
-Got my score! That means for all three associate certs I've scored over 900. I've requested be put forward for the 'Advanced Architecting On AWS' QA course for training.
+Got my score! That means for all three associate certs I've scored over 900.  
+I've requested be put forward for the 'Advanced Architecting On AWS' QA course for training.  
 
 ## 26th April 2021 - SysOps Certified
 ### Youtube
@@ -102,26 +109,31 @@ Completed the last to CQ episodes
 ### Brainscape
 On the way to the exam went through the flashcards
 ### AWS
-The exam went okay, it was nice to have a scratch sheet to write things and being in a climate controlled office was much better than my previous online experience. I had plenty of time and finished early. The few questions that I flagged or wrote down to revisit I had ample time to return and submit answers.
+The exam went okay, it was nice to have a scratch sheet to write things and the climate controlled office  
+was preferable to my previous online experience. I had plenty of time and finished early.  
+Although I'd flagged or made notes on a few questions, I had ample time to revisit and submit revised answers.  
 ### LinkedIn Learning
-Completed the Shyam Raj
-Great for AWS Config settings 
-RDS Event triggers
+Completed the Shyam Raj Course on 'AWS: Monitoring and Reporting'
+- Great for AWS Config settings 
+- RDS Event triggers
 Started Enterprise security by Sharif Nijim 
-Idea around separation of duties Engineering has Root passwords / Security holds the MFA Hardware tokens
+- Ideas around separation of duties:
+    Engineering has Root passwords
+    Security holds the MFA Hardware tokens
 
 ## 25th April 2021 - Road to SysOps
-AWS exam 30
-Bonso #6
-Monitoring section
-Maarek course - exam prep & monitoring
-Faqs
-Read study notes
+Study Materials:
+- AWS Practice Exam - 30 Mins
+- Jon Bonso Exam #6
+- Monitoring section
+- Stephane Maarek course - 'Exam prep & Monitoring'
+- Read FAQs
+- Read Study notes
 ### Udemy
 Completed  ‘AWS Certified SysOps Administrator Associate Practice Exam 5’ by Jon Bonso.
 - Worryingly I didn’t do too well. 
 Completed other sections of the Stephane Maarek course
-Re-sat the a practice exam I initially failed by Stephane Maarek
+Re-sat the Stephane Maarek practice exam, that I'd initially failed at the start of my study
 ### Youtube
 Completed several CQ episodes on youtube
 ### AWS 
@@ -132,112 +144,120 @@ Created a set of flashcards based on the Sysops Cheatsheet by Jon Bonso
 
 ## 24th April 2021 - Road to SysOps
 ### Udemy
-Completed  ‘AWS Certified SysOps Administrator Associate Practice Exam 4’ by Jon Bonso. I passed but felt I fell foul to some wording that seemed ambiguous. 
-Followed it up by typing up my incorrect answers into a Google Doc to supplement my learning material.
+Completed  ‘AWS Certified SysOps Administrator Associate Practice Exam 4’ by Jon Bonso.  
+I passed but felt I fell foul to some wording that seemed ambiguous.  
+Followed it up by typing up my incorrect answers into a Google Doc to supplement my learning material.  
 ### LinkedIn Learning
-Completed the ‘Exam Tips: AWS Certified SysOps Administrator’ lecture by Sharif Nijim.
-- I'd mostly covered this material previously but good as a refesher. 
-- The CloudWatch visual representation was a great touch.
-Started the first section of 'AWS Monitoring and Reporting' by Shyam Raj
-- This goes into detail on a large part of the exam 22%. 
-- Completed the section on CloudWatch and the end of section quiz.
+Completed the ‘Exam Tips: AWS Certified SysOps Administrator’ lecture by Sharif Nijim.  
+- I'd mostly covered this material previously but good as a refesher  
+- The CloudWatch visual representation was a great touch  
+Started the first section of 'AWS Monitoring and Reporting' by Shyam Raj  
+- This goes into detail on a considerable part of the exam - 22%  
+- Completed the section on CloudWatch and the end of section quiz  
 ### AWS Study Materials
-Completed course ‘AWS EXAM readiness
-WS Sample Exam Questions and did fine.
+Completed course ‘AWS Exam readiness'  
+WS Sample Exam Questions and did fine  
 ### Quizlet
 32 flashcards of the 177 by beezy_bob 
 
 ## 23rd April 2021 - Road to SysOps
 ### LinkedIn Learning
-Watched the start of Tom Carpenter's Solutions Architect 7 application deployment course. It's an enjoyable format watching Tom clearly explain the content. Much more engaging than some of the PowerPoint online content 
-Liked the breakdown of cloudfront uses
-Covered Swf in context
-Nice step function example
-Content type
-Rekognition
-Thumbnail generation
-Sqs and sns
-Kinesis types
+Watched the start of Tom Carpenter's Solutions Architect 7 application deployment course.  
+It's an enjoyable format watching Tom clearly explain the content.  
+Much more engaging than some of the PowerPoint online content  
+ - I Liked the breakdown of cloudfront uses  
+ - Covered Swf in context  
+ - Nice step function example  
+ - Content type  
+ - Rekognition  
+ - Thumbnail generation  
+ - Sqs and sns  
+ - Kinesis types  
 
 Completed "AWS Administration: Tips and Tricks" it was basic content but practical in it's broad real life use cases. 
-Various instructors
-Short lectures
-Easily digestible
-Added cloud applications to my profile
+ - Various instructors  
+ - Short lectures  
+ - Easily digestible  
+ - Added cloud applications to my profile  
 
-Finished the AWS: Deploying and Provisioning by Brandon Rich. It's well explained with some great examples that are less common than some other lectures. Leans more heavily on Ruby but very good to see more detailed examples.
-Using lambda for custom resources in Cloudformation
-Ruby application deployed with Elastic Beanstalk.
-Some more focus on using the AWS cli for Elastic Beanstalk
-The opsworks demo provided good insights into the platforms strengths
-Code deploy is another lesser demoed technology
-Cloud9 looks like a easy way to standardise the ide platform to provide a unified experience to developers.
-Codestar is a great tool but in some ways it seems too easy to deploy a ci/cd pipeline
+Finished the 'AWS: Deploying and Provisioning' by Brandon Rich.  
+It's well explained with some great examples that are less common than some other lectures.  
+Leans more heavily on Ruby but very good to see more detailed examples.  
+Using lambda for custom resources in Cloudformation  
+Ruby application deployed with Elastic Beanstalk  
+Some more focus on using the AWS cli for Elastic Beanstalk  
+The opsworks demo provided good insights into the platforms strengths  
+Code deploy is another lesser demoed technology  
+Cloud9 looks like a easy way to standardise the ide platform to provide a unified experience to developers  
+Codestar is a great tool but in some ways it seems too easy to deploy a ci/cd pipeline  
 
 ### QwikLabs
-Introduction to Amazon CloudFront
-- Created a new Amazon CloudFront distribution
-- Used your Amazon CloudFront distribution to serve an image file
-- Deleted your Amazon CloudFront distribution when it is no longer required
-Introduction to AWS Lambda
-- Created an AWS Lambda function
-- Configured an Amazon S3 bucket as a Lambda Event Source
-- Triggered a Lambda function by uploading an object to Amazon S3
-- Monitored AWS Lambda S3 functions through Amazon CloudWatch Log
-Introduction to AWS Key Management Service
-- Created an Encryption Key
-- Created an S3 bucket with CloudTrail logging functions
-- Encrypted and image and stored it in your S3 bucket
-- Viewed the encrypted image using the AWS Management Console
-- Monitored encryption key usage using CloudTrail
-- Managed encryption keys for users and roles
+Introduction to Amazon CloudFront  
+- Created a new Amazon CloudFront distribution  
+- Used your Amazon CloudFront distribution to serve an image file  
+- Deleted your Amazon CloudFront distribution when it is no longer required  
+Introduction to AWS Lambda  
+- Created an AWS Lambda function  
+- Configured an Amazon S3 bucket as a Lambda Event Source  
+- Triggered a Lambda function by uploading an object to Amazon S3  
+- Monitored AWS Lambda S3 functions through Amazon CloudWatch Log  
+Introduction to AWS Key Management Service  
+- Created an Encryption Key  
+- Created an S3 bucket with CloudTrail logging functions  
+- Encrypted and image and stored it in your S3 bucket  
+- Viewed the encrypted image using the AWS Management Console  
+- Monitored encryption key usage using CloudTrail  
+- Managed encryption keys for users and roles  
 ### Community
-Setup a github page and started blogging. 
-GitHub Blog Phase One:
-- Update Blog: Terminal \ Git
-- Application: VI
-- Format: HTML
-- Text: Touchtyped 
-Blog updates: End each post with timestamp / OS / Text editor / Location (City) /  WPM
+Setup a github page and started blogging.  
+GitHub Blog Phase One:  
+- Update Blog: Terminal \ Git  
+- Application: VI  
+- Format: HTML  
+- Text: Touchtyped   
+Blog updates: End each post with timestamp / OS / Text editor / Location (City) /  WPM  
 
 ## 22nd April 2021 - Road to SysOps
 ### LinkedIn Learning
-Completed the 4 hr 'High Availability' lecture by Sharif Nijim - Very good overall
-Versioning is required on both buckets for Cross region replication 
-EBS volumes can now be attached to multiple instances
-Elasticache versions are slightly behind on AWS
-Amazon Keyspaces is the AWS implementation of Apache Cassandra
-- Keyspaces is not yet multi-region
-Added High Availability to my profile
-Started AWS: Deployment and Provisioning 5h Brandon Rich
+Completed the 4 hr 'High Availability' lecture by Sharif Nijim - Very good overall  
+Versioning is required on both buckets for Cross region replication  
+EBS volumes can now be attached to multiple instances  
+Elasticache versions are slightly behind on AWS  
+Amazon Keyspaces is the AWS implementation of Apache Cassandra  
+- Keyspaces is not yet multi-region  
+Added High Availability to my profile  
+Started AWS: Deployment and Provisioning 5h Brandon Rich  
 ### QwikLabs
-Used Qwiklabs for the first time today, it's very good. Some of the labs seemed dated but the experience of setting things in the AWS console was good. Tempted by the Advantage subscription for at least a month.
-Introduction to AWS Identity and Access Management (IAM)
-- Explored pre-created IAM users and groups
-- Inspected IAM policies as applied to the pre-created groups
-- Followed a real-world scenario, adding users to groups with specific capabilities enabled
-- Located and used the IAM sign-in URL
-- Experimented with the effects of policies on service access
-Introduction to Amazon DynamoDB
-- Create an Amazon DynamoDB table
-- Enter data into an Amazon DynamoDB table
-- Query an Amazon DynamoDB table
-- Delete an Amazon DynamoDB table
-Introduction to Amazon Simple Storage Service (S3)
-- Create a bucket in Amazon S3
-- Add an object to your bucket
-- Manage access permissions on an object
-- Create a bucket policy
-- Use bucket versioning
-Introduction to Amazon API Gateway
-- Create an AWS Lambda function
-- Create an Amazon API Gateway endpoints
-- Debug API Gateway and Lambda with Amazon CloudWatch
+Used Qwiklabs for the first time today, it's very good  
+Some of the labs seemed dated but the experience of setting things in the AWS console was good  
+Tempted by the Advantage subscription for at least a month  
+Introduction to AWS Identity and Access Management (IAM)  
+- Explored pre-created IAM users and groups  
+- Inspected IAM policies as applied to the pre-created groups  
+- Followed a real-world scenario, adding users to groups with specific capabilities enabled  
+- Located and used the IAM sign-in URL  
+- Experimented with the effects of policies on service access  
+Introduction to Amazon DynamoDB  
+- Create an Amazon DynamoDB table  
+- Enter data into an Amazon DynamoDB table  
+- Query an Amazon DynamoDB table  
+- Delete an Amazon DynamoDB table  
+Introduction to Amazon Simple Storage Service (S3)  
+- Create a bucket in Amazon S3  
+- Add an object to your bucket  
+- Manage access permissions on an object  
+- Create a bucket policy  
+- Use bucket versioning  
+Introduction to Amazon API Gateway  
+- Create an AWS Lambda function  
+- Create an Amazon API Gateway endpoints  
+- Debug API Gateway and Lambda with Amazon CloudWatch  
 ### Work
-Suggested the use of two Amazon snowball devices for moving 100TB of data to S3. Also, noted that AWS data pipeline could be helpful.
-Worked on a proof of concept for PreSigned Urls using the Python handler in AWS lambda
+Suggested the use of two Amazon snowball devices for moving 100TB of data to S3  
+Also, noted that AWS data pipeline could be helpful  
+Worked on a proof of concept for PreSigned Urls using the Python handler in AWS lambda  
 ### Community
-Updated my Meetup profile for AWS Focus and setup notifications to my primary email address.
+Updated my Meetup profile for AWS focus and setup notifications to my primary email address  
     
 
 
