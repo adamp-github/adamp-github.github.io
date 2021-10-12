@@ -180,9 +180,9 @@ Completed "AWS Administration: Tips and Tricks" it was basic content but practic
  - Easily digestible  
  - Added cloud applications to my profile  
 
-Finished the 'AWS: Deploying and Provisioning' by Brandon Rich.  
-It's well explained with some great examples that are less common than some other lectures.  
-Leans more heavily on Ruby but very good to see more detailed examples.  
+Finished the 'AWS: Deploying and Provisioning' by Brandon Rich  
+It's well explained with some great examples that are less common than some other lectures  
+Leans more heavily on Ruby but very good to see more detailed examples  
 Using lambda for custom resources in Cloudformation  
 Ruby application deployed with Elastic Beanstalk  
 Some more focus on using the AWS cli for Elastic Beanstalk  
