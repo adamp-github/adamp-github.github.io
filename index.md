@@ -1,6 +1,6 @@
 # Daily DevOps Grind
 
-## 12th October 2021 - Short(er?) to SA - Pro / Long(er) road to DevOps
+## 12th October 2021 - Shorter road to SA - Pro
 ### AWS
 AWS Power Hour on Architecting will run  for 6 sessions starting Monday October 18th 2021
 ### Work
@@ -8,16 +8,22 @@ Discussions around Infrastructure serives AWS account
 ### Udemy
 Completed Section 4 of 'Ultimate AWS Certified Solutions Architect Professional 2021' by Stephane Maarek
 ### Community
-Phase One-point-two:
+GitHub Blog Phase One-point-Two:
 - Update Blog: GitHub
 - Application: Web-based VSCode Editor
 - Format: Markdown
 - Text: Touchtyped
 
-## 6th October 2021 - Short(er?) to SA - Pro / Long(er) road to DevOps
+## 6th October 2021 - Shorter road to SA - Pro
+Switched focus after some downtime with a vacation, I'm gearing back up to continue my studies.
+Given AWS are offering a four week "AWS Solution Architect Professional Certification Journey", I've decided to focus on the Solutions Architect Professional qualification and put the DevOps Pro study on hold for now.
 ### AWS
-Attended the first session of 'AWS PartnerCast - AWS Solution Architect Professional Certification Journey'
+Attended the first session of 4 in the  'AWS PartnerCast - AWS Solution Architect Professional Certification Journey'
 - A few poor decisions on the quiz questions but optimistic my skills will improve with practice
+
+## 1st October 2021 - Shorter road to SA - Pro
+Switched focus after some downtime with a vacation, I'm gearing back up to continue my studies.
+Given AWS are offering a four week "AWS Solution Architect Professional Certification Journey", I've decided to focus on the Solutions Architect Professional qualification and put the DevOps Pro study on hold for now.
 
 ## 12th July 2021 - Advanced Architecting On AWS Course
 ### AWS
@@ -51,7 +57,7 @@ Began work on a CloudFormation template to deploy a Tableau Server.
 ### RedHat
 Watched a video on Jenkins pipelines. Related to Kubernetes cluster deployments.
 ### Community
-Phase One-point-One:
+GitHub Blog Phase One-point-One:
 - Update Blog: Terminal \ Git
 - Application: VI
 - Format: Markdown
@@ -186,7 +192,7 @@ Introduction to AWS Key Management Service
 - Managed encryption keys for users and roles
 ### Community
 Setup a github page and started blogging. 
-Phase One:
+GitHub Blog Phase One:
 - Update Blog: Terminal \ Git
 - Application: VI
 - Format: HTML
