@@ -1,10 +1,27 @@
 # Daily DevOps Grind
 
+[![AdamP's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamp-github)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## 13th October 2021 - Shorter road to SA - Pro
+### AWS
+Attended the second session of 4 in the  'AWS PartnerCast - AWS Solution Architect Professional Certification Journey'
+### Work
+Discussed out best practices for VPC networking and IPv4 address allocation 
+### Udemy
+
+### Community
+GitHub Blog Phase One-point-Two:
+- Update Blog: GitHub
+- Application: Web-based VSCode Editor
+- Format: Markdown
+- Text: Touchtyped
+
 ## 12th October 2021 - Shorter road to SA - Pro
 ### AWS
 AWS Power Hour on Architecting will run  for 6 sessions starting Monday October 18th 2021
 ### Work
-Discussions around Infrastructure serives AWS account  
+Discussions around Infrastructure services AWS account  
 New AWS SA job at work  
 ### Udemy
 Completed Section 4 of 'Ultimate AWS Certified Solutions Architect Professional 2021' by Stephane Maarek
@@ -17,7 +34,6 @@ GitHub Blog Phase One-point-Two:
 
 ## 6th October 2021 - Shorter road to SA - Pro
 Switched focus after some downtime with a vacation, I'm gearing back up to continue my studies.  
-
 ### AWS
 Attended the first session of 4 in the  'AWS PartnerCast - AWS Solution Architect Professional Certification Journey'
 - A few poor decisions on the quiz questions but optimistic my skills will improve with practice
