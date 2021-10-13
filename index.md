@@ -1,11 +1,13 @@
 # Daily DevOps Grind
 
-[![AdamP's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamp-github)](https://github.com/anuraghazra/github-readme-stats)
+[![AdamP's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamp-github)](https://github.com/adamp-github)
 
 
 ## 13th October 2021 - Shorter road to SA - Pro
 ### AWS
-Attended the second session of 4 in the  'AWS PartnerCast - AWS Solution Architect Professional Certification Journey'
+Attended the second session of 4 in the  'AWS PartnerCast - AWS Solution Architect Professional Certification Journey' series
+- Practice questions went better than last week
+- Clearly there's a significant leap between SAA and SAP certifications to be bridged
 ### Work
 Discussed out best practices for VPC networking and IPv4 address allocation 
 ### Udemy
@@ -35,7 +37,7 @@ GitHub Blog Phase One-point-Two:
 ## 6th October 2021 - Shorter road to SA - Pro
 Switched focus after some downtime with a vacation, I'm gearing back up to continue my studies.  
 ### AWS
-Attended the first session of 4 in the  'AWS PartnerCast - AWS Solution Architect Professional Certification Journey'
+Attended the first session of 4 in the  'AWS PartnerCast - AWS Solution Architect Professional Certification Journey' series
 - A few poor decisions on the quiz questions but optimistic my skills will improve with practice
 
 ## 1st October 2021 - Shorter road to SA - Pro
