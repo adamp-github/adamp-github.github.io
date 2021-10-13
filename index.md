@@ -11,7 +11,9 @@ Attended the second session of 4 in the  'AWS PartnerCast - AWS Solution Archite
 ### Work
 Discussed out best practices for VPC networking and IPv4 address allocation 
 ### Udemy
-
+Completed 2 hours of the Stephane Maarek SA Pro course on Udemy
+### Reading
+Read the first chapter of 'AWS for Solutions Architects' by Alberto Artosanchez
 ### Community
 GitHub Blog Phase One-point-Two:
 - Update Blog: GitHub
@@ -24,7 +26,6 @@ GitHub Blog Phase One-point-Two:
 AWS Power Hour on Architecting will run  for 6 sessions starting Monday October 18th 2021
 ### Work
 Discussions around Infrastructure services AWS account  
-New AWS SA job at work  
 ### Udemy
 Completed Section 4 of 'Ultimate AWS Certified Solutions Architect Professional 2021' by Stephane Maarek
 ### Community
