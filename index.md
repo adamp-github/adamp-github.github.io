@@ -5,6 +5,9 @@
 ## 15th October 2021 - Shorter road to SA - Pro
 ### AWS
 ### Work
+Discussed a new [feature](https://aws.amazon.com/blogs/networking-and-content-delivery/application-load-balancer-type-target-group-for-network-load-balancer/) of the AWS Network Load balancer released last month:
+- The new setting allows a NLB to use an ALB as a target type
+![feature](https://aws.amazon.com/blogs/networking-and-content-delivery/application-load-balancer-type-target-group-for-network-load-balancer/)
 ### Udemy
 ### Reading
 ### Community
@@ -25,6 +28,8 @@ Discussed out best practices for VPC networking and IPv4 address allocation
 Completed 2 hours of the Stephane Maarek SA Pro course on Udemy
 ### Reading
 Read the second chapter of 'AWS for Solutions Architects' by Alberto Artosanchez
+- It seemed to cover in some detail approaches to cloud migration 
+- Which seems helpful in adopting the correct strategy to approach the project
 ![AWS7Rs](/images/AWS7Rs.png "AWS 7R's")
 ### Community
 GitHub Blog Phase One-point-Two:
