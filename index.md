@@ -77,15 +77,15 @@ Given AWS are offering a four week "AWS Solution Architect Professional Certific
 I've decided to focus on the Solutions Architect Professional qualification and put the DevOps 
 Pro study on hold for now.  
 
-## 12th July 2021 - Advanced Architecting On AWS Course
+## 12th July 2021 - Adv. Architecting On AWS Course
 ### AWS
 Day 3 - Place holder for Notes / Observations
 
-## 9th July 2021 - Advanced Architecting On AWS Course
+## 9th July 2021 - Adv. Architecting On AWS Course
 ### AWS
 Day 2 - Place holder for Notes / Observations
 
-## 8th Oct 2021 - Advanced Architecting On AWS Course
+## 8th Oct 2021 - Adv. Architecting On AWS Course
 ### AWS
 Day 1 - Place holder for Notes / Observations
 
