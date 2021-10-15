@@ -1,5 +1,3 @@
-# Daily DevOps Grind
-
 [![AdamP's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamp-github)](https://github.com/adamp-github)
 
 ## 15th October 2021 - Shorter road to SA - Pro
