@@ -2,6 +2,37 @@
 
 [![AdamP's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamp-github)](https://github.com/adamp-github)
 
+## 15th October 2021 - Shorter road to SA - Pro
+### AWS
+### Work
+### Udemy
+### Reading
+### Community
+GitHub Blog Phase One-point-Two:
+- Update Blog: GitHub
+- Application: Web-based VSCode Editor
+- Format: Markdown
+- Text: Touchtyped
+
+## 14th October 2021 - Shorter road to SA - Pro
+### AWS
+Attended the second session of 4 in the  'AWS PartnerCast - AWS Solution Architect Professional Certification Journey' series
+- Practice questions went better than last week
+- Clearly there's a significant leap between SAA and SAP certifications to be bridged
+### Work
+Discussed out best practices for VPC networking and IPv4 address allocation 
+### Udemy
+Completed 2 hours of the Stephane Maarek SA Pro course on Udemy
+### Reading
+Read the second chapter of 'AWS for Solutions Architects' by Alberto Artosanchez
+- 
+![][images/AWS7Rs.jpg]
+### Community
+GitHub Blog Phase One-point-Two:
+- Update Blog: GitHub
+- Application: Web-based VSCode Editor
+- Format: Markdown
+- Text: Touchtyped
 
 ## 13th October 2021 - Shorter road to SA - Pro
 ### AWS
