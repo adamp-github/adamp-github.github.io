@@ -7,7 +7,7 @@
 ### Work
 Discussed a new [feature](https://aws.amazon.com/blogs/networking-and-content-delivery/application-load-balancer-type-target-group-for-network-load-balancer/) of the AWS Network Load balancer released last month:
 - The new setting allows a NLB to use an ALB as a target type
-- I can already think of a possible integration for this with our corporate logging service
+- I can already think of a possible integration for this with our corporate logging service  
 ### Udemy
 ### Reading
 ### Community
