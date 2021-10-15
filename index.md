@@ -25,8 +25,7 @@ Discussed out best practices for VPC networking and IPv4 address allocation
 Completed 2 hours of the Stephane Maarek SA Pro course on Udemy
 ### Reading
 Read the second chapter of 'AWS for Solutions Architects' by Alberto Artosanchez
-- 
-![][images/AWS7Rs.jpg]
+![AWS7Rs][images/AWS7Rs.jpg]
 ### Community
 GitHub Blog Phase One-point-Two:
 - Update Blog: GitHub
