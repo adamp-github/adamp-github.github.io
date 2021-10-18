@@ -39,7 +39,7 @@ Read the second chapter of 'AWS for Solutions Architects' by Alberto Artosanchez
 - It seemed to cover in detail various approaches to cloud migration 
 - Which seems helpful in adopting the correct strategy to approach the project
 - It reminded me of the AWS 7Rs
-![AWS7Rs](/images/AWS7Rs.png "AWS 7R's")
+![AWS7Rs](/images/AWS7Rs.png "AWS 7R's")   
 ### Community
 GitHub Blog Phase One-point-Two:  
 - Update Blog: GitHub
@@ -51,7 +51,7 @@ GitHub Blog Phase One-point-Two:
 ### AWS
 Attended the second session of 4 in the  'AWS PartnerCast - AWS Solution Architect Professional Certification Journey' series
 - Practice questions went better than last week
-- Clearly there's a significant leap between SAA and SAP certifications to be bridged  
+- Clearly there's a significant leap between SAA and SAP certifications to be bridged    
 ### Work
 Discussed out best practices for VPC networking and IPv4 address allocation 
 ### Udemy
