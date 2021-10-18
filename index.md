@@ -6,7 +6,7 @@
 ### Udemy
 Went through the re-cap on ELBs from Section 5 of the Stephane Maarek SA Pro Udemy Course
 ### Community
-GitHub Blog Input:
+GitHub Blog Input:  
 - Update Blog: GitHub
 - Application: VI 
 - Format: Markdown
@@ -14,8 +14,8 @@ GitHub Blog Input:
 
 ## 16th October 2021 - Shorter road to SA - Pro
 ### HomeLab
-Installed Docker on a Debian LXC container and configured it to run Plex, Radarr and Sonarr   
-Built a VM running Home Assistant and began integrating devices  
+- Installed Docker on a Debian LXC container and configured it to run Plex, Radarr and Sonarr   
+- Built a VM running Home Assistant and began integrating devices  
 
 ## 15th October 2021 - Shorter road to SA - Pro
 ### Work
@@ -23,7 +23,7 @@ Discussed a new [feature](https://aws.amazon.com/blogs/networking-and-content-de
 - The new setting allows a NLB to use an ALB as a target type
 - I can already think of a possible integration for this with our corporate logging service  
 ### Community
-GitHub Blog Phase One-point-Two:
+GitHub Blog Phase One-point-Two:  
 - Update Blog: GitHub
 - Application: Web-based VSCode Editor
 - Format: Markdown
@@ -41,7 +41,7 @@ Read the second chapter of 'AWS for Solutions Architects' by Alberto Artosanchez
 - It reminded me of the AWS 7Rs
 ![AWS7Rs](/images/AWS7Rs.png "AWS 7R's")
 ### Community
-GitHub Blog Phase One-point-Two:
+GitHub Blog Phase One-point-Two:  
 - Update Blog: GitHub
 - Application: Web-based VSCode Editor
 - Format: Markdown
@@ -59,7 +59,7 @@ Completed 2 hours of the Stephane Maarek SA Pro course on Udemy
 ### Reading
 Read the first chapter of 'AWS for Solutions Architects' by Alberto Artosanchez
 ### Community
-GitHub Blog Phase One-point-Two:
+GitHub Blog Phase One-point-Two:  
 - Update Blog: GitHub
 - Application: Web-based VSCode Editor
 - Format: Markdown
@@ -73,7 +73,7 @@ Discussions around Infrastructure services AWS account
 ### Udemy
 Completed Section 4 of 'Ultimate AWS Certified Solutions Architect Professional 2021' by Stephane Maarek
 ### Community
-GitHub Blog Phase One-point-Two:
+GitHub Blog Phase One-point-Two:  
 - Update Blog: GitHub
 - Application: Web-based VSCode Editor
 - Format: Markdown
@@ -125,7 +125,7 @@ Began work on a CloudFormation template to deploy a Tableau Server.
 ### RedHat
 Watched a video on Jenkins pipelines. Related to Kubernetes cluster deployments.
 ### Community
-GitHub Blog Phase One-point-One:
+GitHub Blog Phase One-point-One:  
 - Update Blog: Terminal \ Git
 - Application: VI
 - Format: Markdown
