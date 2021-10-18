@@ -172,8 +172,8 @@ Completed the last to CQ episodes
 ### Brainscape
 On the way to the exam went through the flashcards
 ### AWS
-The exam went okay, it was nice to have a scratch sheet to write things and the climate controlled office  
-was preferable to my previous online experience. I had plenty of time and finished early.  
+The exam went okay, it was nice to have a scratch sheet to write things and the climate controlled office was preferable to my previous online experience.
+Thankfully, I had plenty of time and was able to finish early.  
 Although I'd flagged or made notes on a few questions, I had ample time to revisit and submit revised answers.  
 ### LinkedIn Learning
 Completed the Shyam Raj Course on 'AWS: Monitoring and Reporting'
