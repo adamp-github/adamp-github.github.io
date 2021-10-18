@@ -1,13 +1,34 @@
 [![AdamP's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamp-github)](https://github.com/adamp-github)
 
+
+
+## 18th October 2021 - Shorter road to SA - Pro
+### Udemy
+Went through the re-cap on ELBs from Section 5 of the Stephane Maarek SA Pro Udemy Course
+### Community
+GitHub Blog Input:
+- Update Blog: GitHub
+- Application: VI 
+- Format: Markdown
+- Text: Touchtyped
+
+## 16th October 2021 - Shorter road to SA - Pro
+### HomeLab
+- Installed Docker on a Debian LXC container and configured it to run Plex, Radarr and Sonarr 
+- Built a VM running Home Assistant and began integrating devices
+### Community
+GitHub Blog Input:
+- Update Blog: GitHub
+- Application: VI
+- Format: Markdown
+- Text: Touchtyped
+
+
 ## 15th October 2021 - Shorter road to SA - Pro
-### AWS
 ### Work
 Discussed a new [feature](https://aws.amazon.com/blogs/networking-and-content-delivery/application-load-balancer-type-target-group-for-network-load-balancer/) of the AWS Network Load balancer released last month:
 - The new setting allows a NLB to use an ALB as a target type
 - I can already think of a possible integration for this with our corporate logging service  
-### Udemy
-### Reading
 ### Community
 GitHub Blog Phase One-point-Two:
 - Update Blog: GitHub
