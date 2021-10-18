@@ -191,10 +191,10 @@ Study Materials:
 - Monitoring section
 - Stephane Maarek course - 'Exam prep & Monitoring'
 - Read FAQs
-- Read Study notes
+- Read Study notes  
 ### Udemy
 Completed  ‘AWS Certified SysOps Administrator Associate Practice Exam 5’ by Jon Bonso.
-- Worryingly I didn’t do too well. 
+Worryingly I didn’t do too well. 
 Completed other sections of the Stephane Maarek course
 Re-sat the Stephane Maarek practice exam, that I'd initially failed at the start of my study
 ### Youtube
@@ -216,10 +216,10 @@ Completed the ‘Exam Tips: AWS Certified SysOps Administrator’ lecture by Sha
 - The CloudWatch visual representation was a great touch  
 Started the first section of 'AWS Monitoring and Reporting' by Shyam Raj  
 - This goes into detail on a considerable part of the exam - 22%  
-- Completed the section on CloudWatch and the end of section quiz  
+- Completed the section on CloudWatch and the end of section quiz   
 ### AWS Study Materials
 Completed course ‘AWS Exam readiness'  
-WS Sample Exam Questions and did fine  
+WS Sample Exam Questions and did fine   
 ### Quizlet
 32 flashcards of the 177 by beezy_bob 
 
@@ -270,7 +270,7 @@ Introduction to AWS Key Management Service
 - Encrypted and image and stored it in your S3 bucket  
 - Viewed the encrypted image using the AWS Management Console  
 - Monitored encryption key usage using CloudTrail  
-- Managed encryption keys for users and roles  
+- Managed encryption keys for users and roles   
 ### Community
 Setup a github page and started blogging.  
 GitHub Blog Phase One:  
@@ -289,7 +289,7 @@ Elasticache versions are slightly behind on AWS
 Amazon Keyspaces is the AWS implementation of Apache Cassandra  
 - Keyspaces is not yet multi-region  
 Added High Availability to my profile  
-Started AWS: Deployment and Provisioning 5h Brandon Rich  
+Started AWS: Deployment and Provisioning by Brandon Rich   
 ### QwikLabs
 Used Qwiklabs for the first time today, it's very good  
 Some of the labs seemed dated but the experience of setting things in the AWS console was good  
@@ -314,13 +314,10 @@ Introduction to Amazon Simple Storage Service (S3)
 Introduction to Amazon API Gateway  
 - Create an AWS Lambda function  
 - Create an Amazon API Gateway endpoints  
-- Debug API Gateway and Lambda with Amazon CloudWatch  
+- Debug API Gateway and Lambda with Amazon CloudWatch    
 ### Work
 Suggested the use of two Amazon snowball devices for moving 100TB of data to S3  
 Also, noted that AWS data pipeline could be helpful  
-Worked on a proof of concept for PreSigned Urls using the Python handler in AWS lambda  
+Worked on a proof of concept for PreSigned Urls using the Python handler in AWS lambda   
 ### Community
 Updated my Meetup profile for AWS focus and setup notifications to my primary email address  
-    
-
-
