@@ -14,15 +14,8 @@ GitHub Blog Input:
 
 ## 16th October 2021 - Shorter road to SA - Pro
 ### HomeLab
-- Installed Docker on a Debian LXC container and configured it to run Plex, Radarr and Sonarr 
-- Built a VM running Home Assistant and began integrating devices
-### Community
-GitHub Blog Input:
-- Update Blog: GitHub
-- Application: VI
-- Format: Markdown
-- Text: Touchtyped
-
+Installed Docker on a Debian LXC container and configured it to run Plex, Radarr and Sonarr   
+Built a VM running Home Assistant and began integrating devices  
 
 ## 15th October 2021 - Shorter road to SA - Pro
 ### Work
