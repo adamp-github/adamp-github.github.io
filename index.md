@@ -1,5 +1,20 @@
 [![AdamP's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamp-github)](https://github.com/adamp-github)
 
+## 19th October 2021 - Shorter road to SA - Pro
+### Udemy
+Completed Section 5: Compute & Load Balancing of the Stephane Maarek SA Pro Course  
+This covered the API Gateway and Route 53 mostly  
+The "Comparisons of Solutions Architecture" will be worth a re-watch as there were some good points on system design  
+### Youtube
+I found a great youtube channel called "Gaurav Sen" on System Design  
+An excellent overview of the architecture behind WhatsApp was covered  
+It really made some of the puzzle pieces come together in my head RE:Large distributed systems   
+### Community
+GitHub Blog Input:
+- Update Blog: GitHub
+- Application: VI
+- Format: Markdown
+- Text: Touchtyped
 
 
 ## 18th October 2021 - Shorter road to SA - Pro
