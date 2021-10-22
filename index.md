@@ -1,5 +1,16 @@
 [![AdamP's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamp-github)](https://github.com/adamp-github)
 
+## 20th October 2021 - Shorter road to SA - Pro
+### Reading
+Read for "AWS for Solutions Architects" -  Chapter 3 covering Storage in AWS   
+### Udemy
+Completed Section 6: Storage of the Stephane Maarek SA Pro Course   
+### AWS
+Completed the third "Solution Architect Professional Journey" questions    
+- Much more positive results this time so hopefully a good sign   
+### Youtube 
+Watched the "Instagram system design" video and CAP theorum lecture on data consistency in data distributed systems
+Interesting concepts considered, i need to understand more about Partition Tolerance as this wasn't covered in detail    
 ## 19th October 2021 - Shorter road to SA - Pro
 ### Udemy
 Completed Section 5: Compute & Load Balancing of the Stephane Maarek SA Pro Course  
