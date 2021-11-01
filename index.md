@@ -1,5 +1,23 @@
 [![AdamP's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamp-github)](https://github.com/adamp-github)
 
+## 1st November 2021 - Shorter road to SA - Pro
+### Reading
+Read "AWS for Solutions Architects" -  Chapter 4 covering IaaS, PaaS & SaaS and making informed decisions about which is best   
+The later part of the chapter covered EC2 and S3 features, all things I was already aware of so more of a refresher    
+
+## 31st October 2021 - Shorter road to SA - Pro
+### Udemy
+Completed first Jon Bonso "Solutions Architect Professional Practice Exam":   
+- Overall the experience went well   
+- Adjusting to the shorter timeframe per question was tricky   
+- The longer questions and answers take more time to read   
+
+## 27th October 2021 - Shorter road to SA - Pro
+### AWS
+Completed the fourth and final "Solution Architect Professional Journey" questions
+- Again positive results    
+- I left feedback that I would prefer more questions to be covered in each session   
+
 ## 20th October 2021 - Shorter road to SA - Pro
 ### Reading
 Read for "AWS for Solutions Architects" -  Chapter 3 covering Storage in AWS   
