@@ -1,5 +1,3 @@
-[![AdamP's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamp-github)](https://github.com/adamp-github)
-
 
 ## 3rd November 2021 - Shorter road to SA - Pro
 ### Work 
@@ -411,4 +409,7 @@ Suggested the use of two Amazon snowball devices for moving 100TB of data to S3
 Also, noted that AWS data pipeline could be helpful  
 Worked on a proof of concept for PreSigned Urls using the Python handler in AWS lambda   
 ### Community
-Updated my Meetup profile for AWS focus and setup notifications to my primary email address  
+Updated my Meetup profile for AWS focus and setup notifications to my primary email address 
+
+ 
+[![AdamP's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamp-github)](https://github.com/adamp-github)
