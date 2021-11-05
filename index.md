@@ -9,37 +9,38 @@ There's more detail provide in [this StackOverflow post](https://stackoverflow.c
 
 
 >In CloudFront, you need to create a new origin request policy, not a cache policy:
-
+>
 >   * Open up CloudFront   
->   * go to Policies (left nav)   
->   * click the "Origin Request" tab   
->   * click the "create origin request policy" button   
->   * name the policy whatever you want, i.e., "my origin request policy"   
->   * under "Origin request settings" > Headers: select "Include the following headers"   
->   * under "Add header": check the "Host" option   
->   * click the "Create" button   
-
+>   * Go to Policies (left nav)   
+>   * Click the "Origin Request" tab   
+>   * Click the "create origin request policy" button   
+>   * Name the policy whatever you want, i.e., "my origin request policy"   
+>   * Under "Origin request settings" > Headers: select "Include the following headers"   
+>   * Under "Add header": check the "Host" option   
+>   * Click the "Create" button   
+>
 >The policy will look like this:
 
 ![CFOriginRequestPolicy](/images/CFOriginRequestPolicy.png "CloudFrontOriginRequestPolicy")
 
 >Once the new origin request policy has been created:
-
->    head back to the CloudFront distributions   
->    click your distribution's Id so you can edit it   
->    click the "Behaviors" tab   
->    select your behavior and edit   
->    scroll down to "Cache key and origin requests"   
->    make sure the "Cache policy and origin request policy (recommended)" is selected   
->    under the "Origin request policy - optional", select your new policy, i.e., "my origin request policy"   
->    save changes   
-
+>
+>   * Head back to the CloudFront distributions   
+>   * Click your distribution's Id so you can edit it   
+>   * Click the "Behaviors" tab   
+>   * Select your behavior and edit   
+>   * Scroll down to "Cache key and origin requests"   
+>   * Make sure the "Cache policy and origin request policy (recommended)" is selected   
+>   * Under the "Origin request policy - optional", select your new policy, i.e., "my origin request policy"   
+>   * Save changes   
+>
 >The behavior will look like this (I'm using no caching for now to verify the ec2 instance is getting all the requests): 
 
 ![CFCacheKeyOriginRequests](/images/CFCacheKeyOriginRequests.png "CloudFrontCFCacheKeyOriginRequests")
 
->That's it.
->The host header is now correctly passed through to the ELB and ec2 instance. Nothing else needs to be done with the ELB.
+>That's it.   
+>The host header is now correctly passed through to the ELB and ec2 instance.   
+>Nothing else needs to be done with the ELB.   
  
 ## 2nd November 2021 - Shorter road to SA - Pro
 ### Udemy
