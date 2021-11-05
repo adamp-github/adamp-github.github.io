@@ -10,14 +10,14 @@ There's more detail provide in [this StackOverflow post](https://stackoverflow.c
 
 >In CloudFront, you need to create a new origin request policy, not a cache policy:
 
->    Open up CloudFront
->    go to Policies (left nav)
->    click the "Origin Request" tab
->    click the "create origin request policy" button
->    name the policy whatever you want, i.e., "my origin request policy"
->    under "Origin request settings" > Headers: select "Include the following headers"
->    under "Add header": check the "Host" option
->    click the "Create" button
+>   * Open up CloudFront   
+>   * go to Policies (left nav)   
+>   * click the "Origin Request" tab   
+>   * click the "create origin request policy" button   
+>   * name the policy whatever you want, i.e., "my origin request policy"   
+>   * under "Origin request settings" > Headers: select "Include the following headers"   
+>   * under "Add header": check the "Host" option   
+>   * click the "Create" button   
 
 >The policy will look like this:
 
@@ -25,14 +25,14 @@ There's more detail provide in [this StackOverflow post](https://stackoverflow.c
 
 >Once the new origin request policy has been created:
 
->    head back to the CloudFront distributions
->    click your distribution's Id so you can edit it
->    click the "Behaviors" tab
->    select your behavior and edit
->    scroll down to "Cache key and origin requests"
->    make sure the "Cache policy and origin request policy (recommended)" is selected
->    under the "Origin request policy - optional", select your new policy, i.e., "my origin request policy"
->    save changes
+>    head back to the CloudFront distributions   
+>    click your distribution's Id so you can edit it   
+>    click the "Behaviors" tab   
+>    select your behavior and edit   
+>    scroll down to "Cache key and origin requests"   
+>    make sure the "Cache policy and origin request policy (recommended)" is selected   
+>    under the "Origin request policy - optional", select your new policy, i.e., "my origin request policy"   
+>    save changes   
 
 >The behavior will look like this (I'm using no caching for now to verify the ec2 instance is getting all the requests): 
 
