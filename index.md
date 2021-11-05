@@ -1,5 +1,52 @@
 [![AdamP's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamp-github)](https://github.com/adamp-github)
 
+
+## 3rd November 2021 - Shorter road to SA - Pro
+### Work 
+Worked through some issues with a new CloudFront distribution:   
+- The load balancer is required to be public facing for Cloudfront.  
+- 403 errors can be the result of alternate names not being set in the distribution   
+- If CloudFront is rewiriting the http request header, a policy is required to passthrough the http header   
+There's more detail provide in [this StackOverflow post](https://stackoverflow.com/questions/69399672/how-to-have-an-aws-elb-forward-the-actual-host-name-to-the-target-group-instead):
+
+
+>In CloudFront, you need to create a new origin request policy, not a cache policy:
+
+>    Open up CloudFront
+>    go to Policies (left nav)
+>    click the "Origin Request" tab
+>    click the "create origin request policy" button
+>    name the policy whatever you want, i.e., "my origin request policy"
+>    under "Origin request settings" > Headers: select "Include the following headers"
+>    under "Add header": check the "Host" option
+>    click the "Create" button
+
+>The policy will look like this:
+
+![CFOriginRequestPolicy](/images/CFOriginRequestPolicy.png "CloudFrontOriginRequestPolicy")
+
+>Once the new origin request policy has been created:
+
+>    head back to the CloudFront distributions
+>    click your distribution's Id so you can edit it
+>    click the "Behaviors" tab
+>    select your behavior and edit
+>    scroll down to "Cache key and origin requests"
+>    make sure the "Cache policy and origin request policy (recommended)" is selected
+>    under the "Origin request policy - optional", select your new policy, i.e., "my origin request policy"
+>    save changes
+
+>The behavior will look like this (I'm using no caching for now to verify the ec2 instance is getting all the requests): 
+
+![CFCacheKeyOriginRequests](/images/CFCacheKeyOriginRequests.png "CloudFrontCFCacheKeyOriginRequests")
+
+>That's it.
+>The host header is now correctly passed through to the ELB and ec2 instance. Nothing else needs to be done with the ELB.
+ 
+## 2nd November 2021 - Shorter road to SA - Pro
+### Udemy
+Completed the remaining review of the SA Practice exam. Worked through my answers and paraphrased the correct reasoning for questions I'd answered incorrectly   
+
 ## 1st November 2021 - Shorter road to SA - Pro
 ### Reading
 Read "AWS for Solutions Architects" -  Chapter 4 covering IaaS, PaaS & SaaS and making informed decisions about which is best   
