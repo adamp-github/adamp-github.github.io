@@ -1,3 +1,8 @@
+## 4th November 2021 - Shorter road to SA - Pro
+### HomeLab
+Began setting up the TuringPi and installed Hypriot on all 7 modules.   
+Before installing ECS Anywhere and eventually EKS Anywhere (Once released for baremetal installations), I've decided to use the Jeff Geerling guide to install services using ansible playbooks.   
+
 
 ## 3rd November 2021 - Shorter road to SA - Pro
 ### Work 
@@ -5,7 +10,7 @@ Worked through some issues with a new CloudFront distribution:
 - The load balancer is required to be public facing for Cloudfront.  
 - 403 errors can be the result of alternate names not being set in the distribution   
 - If CloudFront is rewiriting the http request header, a policy is required to passthrough the http header   
-There's more detail provide in [this StackOverflow post](https://stackoverflow.com/questions/69399672/how-to-have-an-aws-elb-forward-the-actual-host-name-to-the-target-group-instead):
+There's more detail provided in [this StackOverflow post](https://stackoverflow.com/questions/69399672/how-to-have-an-aws-elb-forward-the-actual-host-name-to-the-target-group-instead):
 
 
 >In CloudFront, you need to create a new origin request policy, not a cache policy:
