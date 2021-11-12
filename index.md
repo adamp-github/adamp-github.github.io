@@ -1,3 +1,20 @@
+## 12th November 2021 - Shorter road to SA - Pro
+### AWS
+Watched the ["Disaster Recovery of Workloads on AWS | AWS Events"](https://youtu.be/cJZw5mrxryA)   
+Mostly covers the information in the AWS Disaster Recovery whitepaper but with better visualisation   
+- Multi-Site Active/Active   
+- Warm Standby  
+- Pilot Light   
+- Backup / Restore   
+### Community
+Experimenting with Obsidian which is a multi-platform note-taking application that supports better integration of notes using frameworks such as Zettelkasten.
+Ideally I could tie this to an MKdocs instance and establish a publishing process to GitHub.       
+GitHub Blog Input:
+- Update Blog: GitHub
+- Application: Obsidian
+- Format: Markdown
+- Text: Touchtyped
+
 ## 4th November 2021 - Shorter road to SA - Pro
 ### HomeLab
 Began setting up the TuringPi and installed Hypriot on all 7 modules.   
