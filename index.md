@@ -1,3 +1,18 @@
+## 23rd November 2021 - Shorter road to SA - Pro
+### AWS
+Completed my first course on AWS Skills Builder, which looks like a great platform for learning materials   
+Amazon Transcribe   
+ - Allows live realtime transcription of audio   
+ - Custom vocabulary file supports    
+ - Vocabulary filters can be removed from the transcription   
+ - Ability to batch process   
+ - Also adding a process flow to inculde kinesis data streams, lambda and    
+ - Allows translation using AWS Translate   
+ Signed up for AWS Partner Webinars on:   
+ - Machine Learning on AWS   
+ - Advanced Migrating to AWS   
+ - Containers on AWS   
+ 
 ## 12th November 2021 - Shorter road to SA - Pro
 ### AWS
 Watched the ["Disaster Recovery of Workloads on AWS | AWS Events"](https://youtu.be/cJZw5mrxryA)   
@@ -6,9 +21,11 @@ Mostly covers the information in the AWS Disaster Recovery whitepaper but with b
 - Warm Standby  
 - Pilot Light   
 - Backup / Restore   
+AWS Customer Council   
+I signed up to be part of the AWS Customer Council providing feedback on AWS services and releases.   
 ### Community
 Experimenting with Obsidian which is a multi-platform note-taking application that supports better integration of notes using frameworks such as Zettelkasten.
-Ideally I could tie this to an MKdocs instance and establish a publishing process to GitHub.       
+Ideally I could tie this to an MKdocs instance and establish a publishing process to GitHub.   
 GitHub Blog Input:
 - Update Blog: GitHub
 - Application: Obsidian
