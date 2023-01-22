@@ -1,4 +1,4 @@
 
-## Daily DevOps Grind Blog
+## DevOps Grind Blog
 ### Tracking my training developing AWS, Linux and DevOps skills
 
