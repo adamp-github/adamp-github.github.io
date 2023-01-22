@@ -1,8 +1,43 @@
+
+## 22nd January 2023 - AWS Workmail - 5.0.0 bounce messages 
+### AWS
+Thanks to a AWS re:Post, I was able to resolve an issue that was preventing me from sending email using the AWS SES (Simple Email Service).
+
+> Sending Email failed. Could not send email.
+> Status: 5.0.0
+
+A quick update to the SES Authorization policy to update the Principal to the Workmail service...
+```json
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "stmt1641172570046",
+            "Effect": "Allow",
+            "Principal": {
+                "Service": "workmail.eu-west-1.amazonaws.com"
+            },
+            "Action": [
+                "ses:*",
+                "ses:SendBounce",
+                "ses:SendRawEmail"
+            ],
+            "Resource": "arn:aws:ses:eu-west-1:XXXXXXXXXXXX:identity/x--v--x.com",
+            "Condition": {}
+        }
+    ]
+}
+```
+...and Voila! 
+
+Working email outbound from SES!
+
+Here's the [article](https://repost.aws/questions/QUXMqm3LNrS-StjWHt1zUcCg/aws-work-mail-cant-send-emails)
+
 ## 18th October 2022 - Passed my AWS Solutions Architect - Professional Exam 
 ### AWS
 Passed my AWS Solutions Architect - Professional Exam !!!!
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3002aa4a-52f6-4ac7-926e-3e1714ea2f3f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 
 ## 17th October 2022 - Took my AWS Solutions Architect - Professional Exam 
 ### AWS
