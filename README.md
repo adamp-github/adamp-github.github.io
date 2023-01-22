@@ -1,4 +1,4 @@
 
 ## DevOps Grind Blog
-### Tracking my training developing AWS, Linux and DevOps skills
+### racking my training as I develop tech skills #AWS, #Linux and #DevOps
 
