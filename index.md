@@ -1,3 +1,13 @@
+## 18th October 2022 - Passed my AWS Solutions Architect - Professional Exam 
+### AWS
+Passed my AWS Solutions Architect - Professional Exam !!!!
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3002aa4a-52f6-4ac7-926e-3e1714ea2f3f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
+## 17th October 2022 - Took my AWS Solutions Architect - Professional Exam 
+### AWS
+Took my AWS Solutions Architect - Professional Exam 
+
 ## 23rd November 2021 - Shorter road to SA - Pro
 ### AWS
 Completed my first course on AWS Skills Builder, which looks like a great platform for learning materials   
